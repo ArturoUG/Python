@@ -23,10 +23,13 @@ num1 = int(num1)
 print(f"{num1 * num2}")
 
 ##* Operadores Logicos
-num3 = 5
-num4 = 20
+num3 = 20
+num4 = 5
 
-print(num1 == num4) ## Es igual a
-print(num1 != num4) ## Es diferente a
-print(num1 <= num4) ## Es menor a
-print(num1 >= num4) ## Es mayor a
+print(num3 == num4) ## Es igual a  ==
+
+print(num3 != num4) ## Es diferente a
+
+print(num3 <= num4) ## Es menor a
+
+print(num3 >= num4) ## Es mayor a
